@@ -1,0 +1,13 @@
+{
+    "name": "dmanh0603/php-mvc-core",
+    "authors": [
+        {
+            "name": "dmanh",
+            "email": "dmanh6302@gmail.com"
+        }
+    ],
+    "autoload": {
+
+    },
+    "require": {}
+}
