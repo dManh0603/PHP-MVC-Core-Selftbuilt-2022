@@ -5,7 +5,7 @@
  * Time: 3:29 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
 class Session
 {

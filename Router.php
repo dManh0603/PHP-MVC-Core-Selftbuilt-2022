@@ -5,9 +5,9 @@
  * Time: 8:06 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
-use app\core\exceptions\NotFoundException;
+use dmanh0603\phpmvc\exceptions\NotFoundException;
 
 class Router
 {

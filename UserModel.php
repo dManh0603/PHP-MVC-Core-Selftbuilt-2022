@@ -5,9 +5,9 @@
  * Time: 9:41 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
-use app\core\db\DbModel;
+use dmanh0603\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

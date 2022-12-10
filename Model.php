@@ -5,7 +5,7 @@
  * Time: 2:36 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
 abstract class Model
 {

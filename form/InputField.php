@@ -5,9 +5,9 @@
  * Time: 10:29 AM
  **/
 
-namespace app\core\form;
+namespace dmanh0603\phpmvc\form;
 
-use app\core\Model;
+use dmanh0603\phpmvc\Model;
 
 class InputField extends BaseField
 {

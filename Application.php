@@ -5,10 +5,10 @@
  * Time: 8:06 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use dmanh0603\phpmvc\db\Database;
+use dmanh0603\phpmvc\db\DbModel;
 
 class Application
 {

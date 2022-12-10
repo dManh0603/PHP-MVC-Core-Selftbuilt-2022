@@ -5,10 +5,10 @@
  * Time: 1:06 PM
  **/
 
-namespace app\core\db;
+namespace dmanh0603\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use dmanh0603\phpmvc\Application;
+use dmanh0603\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

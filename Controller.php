@@ -5,9 +5,9 @@
  * Time: 9:50 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use dmanh0603\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

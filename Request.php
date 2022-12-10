@@ -5,7 +5,7 @@
  * Time: 8:37 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
 class Request
 {

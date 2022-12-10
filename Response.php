@@ -5,7 +5,7 @@
  * Time: 1:28 PM
  **/
 
-namespace app\core;
+namespace dmanh0603\phpmvc;
 
 class Response
 {

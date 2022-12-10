@@ -1,13 +1,15 @@
 {
-    "name": "dmanh0603/php-mvc-core",
-    "authors": [
-        {
-            "name": "dmanh",
-            "email": "dmanh6302@gmail.com"
-        }
-    ],
-    "autoload": {
-
-    },
-    "require": {}
+  "name": "dmanh0603/php-mvc-core",
+  "authors": [
+    {
+      "name": "dmanh",
+      "email": "dmanh6302@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dmanh0603\\phpmvc\\": "."
+    }
+  },
+  "require": {}
 }
